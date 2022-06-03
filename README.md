@@ -1,3 +1,3 @@
 # Cross-domain Recommender System for Retail Kiosk
 
-Contributors: [@jng6017](https://github.com/jng6017) and 
+Contributors: [@Namgyu_Jung](https://github.com/Namgyu_Jung) and 
