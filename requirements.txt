@@ -1,0 +1,10 @@
+numpy 
+tqdm==4.60.0
+networkx==2.5.1
+six==1.15.0
+fastdtw==0.3.4
+scipy==1.6.2
+scikit-learn==0.24.1
+matplotlib
+torch 
+pytorch_lightning
