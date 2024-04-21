@@ -1,5 +1,5 @@
 # Context-Aware Residual Transformer (CART)
-Context-Aware Residual Transformer (CART) is a kiosk recommendation system (**CART**) that utilizes self-supervised learning techniques tailored to kiosks in an offline retail environment and developed by a collaboration between [NS Lab, CUK](https://nslab-cuk.github.io/) and [IIP Lab, Gachon](http://iiplab.gachon.ac.kr/)  based on pure [PyTorch](https://github.com/pytorch/pytorch) backend.
+Context-Aware Residual Transformer (CART) is a kiosk recommendation system (**CART**) that utilizes self-supervised learning techniques tailored to kiosks in an offline retail environment and developed by a collaboration between [NS Lab, CUK](https://nslab-cuk.github.io/) and [IIP Lab, Gachon University](http://iiplab.gachon.ac.kr/)  based on pure [PyTorch](https://github.com/pytorch/pytorch) backend.
 
 <p align=center>
   <a href="https://www.python.org/downloads/release/python-360/">
